@@ -7,10 +7,10 @@
 ## Domain
 
 Dog breed classification is really challenging due to the minimal inter-class variations.
-A Convolutional Neural Network (CNN) model can be used for this task.
+A Convolutional Neural Network (```CNN```) model can be used for this task.
 Due to the existence of a huge variety of species and organisms, research on
 technology to classify them is crucial. Hsu, David from Stanford University published
-a paper about using convolutional neural networks (CNN) to classify dog breeds.
+a paper about using convolutional neural networks (```CNN```) to classify dog breeds.
 
 ## Project Overview
 
